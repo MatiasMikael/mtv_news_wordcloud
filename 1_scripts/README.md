@@ -17,7 +17,7 @@ This script generates a word cloud from the cleaned data and saves it as an imag
 Run the script using the command:
 python 1_scripts/create_wordcloud.py
 
-***top_words_bar_chart.py**
+**top_words_bar_chart.py**
 This script analyzes the most common words from the cleaned data, generates a bar chart of the top 15 words, and saves the chart as an image file.
 Run the script using the command:
 python 1_scripts/top_words_bar_chart.py
